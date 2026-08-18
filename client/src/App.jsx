@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Admin from "./Admin";
 import "./App.css";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://wantace-roof-estimator-1-vblj.onrender.com";
 
 function App() {
   // Admin page
