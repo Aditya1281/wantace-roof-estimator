@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./Admin.css";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://wantace-roof-estimator-1-vblj.onrender.com";
 
 function Admin() {
   const [leads, setLeads] = useState([]);
